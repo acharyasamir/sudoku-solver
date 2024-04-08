@@ -14,22 +14,22 @@ To get started with this project, you need to have Python installed on your mach
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/sudoku-solver.git
+    ```git clone https://github.com/acharyasamir/sudoku-solver.git```
 
 2. Navigate to the project directory:
 
-cd sudoku-solver
+    ```cd sudoku-solver```
 
 3. Install the required dependencies:
 
-pip insrall pygame
+    ```pip install pygame```
 
 
 ## Usage
 
 To run the Sudoku solver with the GUI, execute the following command in the terminal:
 
-python solverGUI.py
+    ```python solverGUI.py```
 
 
 Use the mouse to click on a cell and select a number to fill the cell. Press the space bar to initiate the solving process and visualize the algorithm in action.
